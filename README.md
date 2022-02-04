@@ -1,3 +1,3 @@
-# JavaScript Angry Bird Clone
+# Angry_Bird_using_javascript 
 
-(preview.png)
+![Preview](preview.png)
